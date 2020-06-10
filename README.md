@@ -12,4 +12,4 @@
 
 ## Final Project
 
-DQN-Based Recommending System
+DQN-Based Recommending System (modified based on [PyTorch Tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html))
